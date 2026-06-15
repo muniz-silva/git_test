@@ -1,0 +1,27 @@
+
+Caça-palavras
+
+Encontre as palavras listadas no grid abaixo. As palavras podem estar na horizontal, vertical ou diagonal, e podem aparecer na direção normal ou invertida.
+
+Grid:
+
+P A L A V R A S X
+E N S I N O Y Z A
+C O M P U T A D O R
+A L G O R I T M O
+S O F T W A R E B
+T E C N O L O G I A
+I N T E R N E T C
+D A D O S M Q W E
+
+Palavras para encontrar:
+- PALAVRAS
+- ENSINO
+- COMPUTADOR
+- ALGORITMO
+- SOFTWARE
+- TECNOLOGIA
+- INTERNET
+- DADOS
+
+Boa sorte!
